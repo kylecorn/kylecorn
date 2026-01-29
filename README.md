@@ -1,7 +1,6 @@
 ## About Me
 
 I'm a Junior studying Computer Science at the University of Michigan!
-
 I'm interested in web/app development, tech consulting, game development, and more!
 
 Check me out at my [LinkedIn](https://www.linkedin.com/in/kylecornell04/).
