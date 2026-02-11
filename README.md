@@ -5,8 +5,7 @@ I'm a Junior studying Computer Science at the University of Michigan!
 I'm interested in web/app development, tech consulting, game development, and more!
 
 Check me out at my [LinkedIn](https://www.linkedin.com/in/kylecornell04/).
-
-👋
+Check me out at my [Personal Portfolio](https://kylecorn.github.io/).
 
 <!--
 **kylecorn/kylecorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
